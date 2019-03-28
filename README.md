@@ -1,2 +1,3 @@
 # gui_fordatabase
 oracle
+简单的图形化界面操作数据库：模仿写一个类似于navicat完成可视化检索功能的界面，利用PyQt可视化编程快速完成界面设计，这点比Tkinter设计要简单
